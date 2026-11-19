@@ -1,0 +1,6 @@
+{
+  "name": "Amazon Online Superstore",
+  "description": "Amazon website clone featuring rich product search, shopping cart with instant checkout, prime perks, and user authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
